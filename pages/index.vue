@@ -1,5 +1,9 @@
 <template>
     <div>
+        <center>
+            <h3 style="padding-bottom: 10px">Campaign cash raised from out-of-state donors</h3>
+        </center>
+
         <div class="group">
             <div class="left">
                 <hexogram race="governors" />
