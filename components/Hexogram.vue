@@ -5,7 +5,7 @@
 
     <div :id="'map-template-' + race" style="display: none;">
         <div class="key-wrap">
-            <div class="title"><b>{{race == 'governors' ? 'Governor and lt. governor candidates' : 'State legislative candidates'}}</b><div style="font-size: 13px; line-height: 14px">{{race == 'governors' ? '9.8%' : '11.4%'}} nationally</div></div>
+            <div class="title"><b>{{race == 'governors' ? 'Governor and lt. governor candidates' : 'State legislative candidates'}}</b><div style="font-size: 13px; line-height: 14px;top:5px;position: relative;">{{race == 'governors' ? '9.8%' : '11.4%'}} nationally</div></div>
             <ul class="key"></ul>
         </div>
 
