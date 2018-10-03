@@ -131,7 +131,7 @@ export default {
 
 .label-active {
     fill: #fff;
-    font-size: 12px;
+    font-size: 11px;
 }
 
 @media screen and (max-width: 500px){
